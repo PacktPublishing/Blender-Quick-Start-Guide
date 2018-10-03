@@ -39,7 +39,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action:
 
-[Placeholder link](bit.ly/2R4ghUh)
+[bit.ly/2R4ghUh](bit.ly/2R4ghUh)
 
 ### Related products <Other books you may enjoy>
 * Unity Virtual Reality Projects - Second Edition
